@@ -81,7 +81,7 @@ export default function FAQPage() {
       category: "general",
       question: "What should I do in a mental health crisis?",
       answer:
-        "If you're experiencing thoughts of self-harm or suicide, please seek immediate help: Call 988 (National Suicide Prevention Lifeline), text HOME to 741741 (Crisis Text Line), or contact emergency services (911). BrightMind's crisis resources page also provides additional emergency contacts.",
+        "If you're experiencing thoughts of self-harm or suicide, please seek immediate help: Call 988 (National Suicide Prevention Lifeline), Call 988 or 95436 23453 (Crisis Text Line), or contact emergency services (911). BrightMind's crisis resources page also provides additional emergency contacts.",
     },
     {
       id: 10,
@@ -247,7 +247,7 @@ export default function FAQPage() {
                   </div>
                   <div className="text-center">
                     <div className="font-semibold">Crisis Support</div>
-                    <div className="text-blue-100">Call 988 or Text HOME to 741741</div>
+                    <div className="text-blue-100">Call 988 or Call 988 or 95436 23453</div>
                   </div>
                 </div>
               </CardContent>

@@ -247,7 +247,7 @@ export default function ContactPage() {
                     <Mail className="h-5 w-5 text-blue-600" />
                     <div>
                       <p className="font-medium">Email Support</p>
-                      <p className="text-gray-600 dark:text-gray-400">support@brightmind.com</p>
+                      <p className="text-gray-600 dark:text-gray-400">supportbm@gmail.com</p>
                     </div>
                   </div>
                   <div className="flex items-center space-x-3">
@@ -301,20 +301,7 @@ export default function ContactPage() {
                 </CardContent>
               </Card>
 
-              {/* Insurance & Payment */}
-              <Card className="shadow-lg">
-                <CardHeader>
-                  <CardTitle>Payment & Insurance</CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <div className="space-y-3 text-sm">
-                    <p>• Most insurance plans cover mental health services</p>
-                    <p>• Many therapists offer sliding scale fees</p>
-                    <p>• Employee Assistance Programs (EAP) often provide free sessions</p>
-                    <p>• Community mental health centers offer low-cost options</p>
-                  </div>
-                </CardContent>
-              </Card>
+             
             </motion.div>
           </div>
         </motion.div>

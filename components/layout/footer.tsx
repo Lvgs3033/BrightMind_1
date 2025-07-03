@@ -93,11 +93,7 @@ export function Footer() {
                   Get Professional Help
                 </Link>
               </li>
-              <li>
-                <Link href="/crisis" className="text-gray-300 hover:text-blue-400 transition-colors text-sm">
-                  Crisis Support
-                </Link>
-              </li>
+              
               <li>
                 <Link href="/faq" className="text-gray-300 hover:text-blue-400 transition-colors text-sm">
                   FAQ

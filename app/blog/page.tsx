@@ -17,7 +17,7 @@ export default function BlogPage() {
     date: "December 15, 2024",
     readTime: "8 min read",
     category: "Wellness",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "https://media.istockphoto.com/id/1388693928/photo/work-together-to-win-together.jpg?s=612x612&w=0&k=20&c=o_e-bhwq1MzDQU2Mv7J4AhxwPGsV_5ampoSdPmLUZQI=",
     featured: true,
   }
 
@@ -31,7 +31,7 @@ export default function BlogPage() {
       date: "December 12, 2024",
       readTime: "6 min read",
       category: "Anxiety",
-      image: "/placeholder.svg?height=300&width=400",
+      image: "https://media.istockphoto.com/id/1488043800/photo/beautiful-flower-growing-out-of-crack-in-asphalt-space-for-text-hope-concept.jpg?s=612x612&w=0&k=20&c=Fe2psr0qxtV4w8URUIV3E5oMTWn8nFhePD5p-Kzq2nw=",
     },
     {
       id: 3,
@@ -42,7 +42,7 @@ export default function BlogPage() {
       date: "December 10, 2024",
       readTime: "7 min read",
       category: "Sleep",
-      image: "/placeholder.svg?height=300&width=400",
+      image: "https://media.istockphoto.com/id/1488043800/photo/beautiful-flower-growing-out-of-crack-in-asphalt-space-for-text-hope-concept.jpg?s=612x612&w=0&k=20&c=Fe2psr0qxtV4w8URUIV3E5oMTWn8nFhePD5p-Kzq2nw=",
     },
     {
       id: 4,
@@ -53,7 +53,7 @@ export default function BlogPage() {
       date: "December 8, 2024",
       readTime: "9 min read",
       category: "Resilience",
-      image: "/placeholder.svg?height=300&width=400",
+      image: "https://media.istockphoto.com/id/1488043800/photo/beautiful-flower-growing-out-of-crack-in-asphalt-space-for-text-hope-concept.jpg?s=612x612&w=0&k=20&c=Fe2psr0qxtV4w8URUIV3E5oMTWn8nFhePD5p-Kzq2nw=",
     },
     {
       id: 5,
@@ -64,7 +64,7 @@ export default function BlogPage() {
       date: "December 5, 2024",
       readTime: "5 min read",
       category: "Mindfulness",
-      image: "/placeholder.svg?height=300&width=400",
+      image: "https://media.istockphoto.com/id/1488043800/photo/beautiful-flower-growing-out-of-crack-in-asphalt-space-for-text-hope-concept.jpg?s=612x612&w=0&k=20&c=Fe2psr0qxtV4w8URUIV3E5oMTWn8nFhePD5p-Kzq2nw=",
     },
     {
       id: 6,
@@ -75,7 +75,7 @@ export default function BlogPage() {
       date: "December 3, 2024",
       readTime: "6 min read",
       category: "Awareness",
-      image: "/placeholder.svg?height=300&width=400",
+      image: "https://media.istockphoto.com/id/1488043800/photo/beautiful-flower-growing-out-of-crack-in-asphalt-space-for-text-hope-concept.jpg?s=612x612&w=0&k=20&c=Fe2psr0qxtV4w8URUIV3E5oMTWn8nFhePD5p-Kzq2nw=",
     },
     {
       id: 7,
@@ -86,7 +86,7 @@ export default function BlogPage() {
       date: "December 1, 2024",
       readTime: "8 min read",
       category: "Nutrition",
-      image: "/placeholder.svg?height=300&width=400",
+      image: "https://media.istockphoto.com/id/1488043800/photo/beautiful-flower-growing-out-of-crack-in-asphalt-space-for-text-hope-concept.jpg?s=612x612&w=0&k=20&c=Fe2psr0qxtV4w8URUIV3E5oMTWn8nFhePD5p-Kzq2nw=",
     },
   ]
 

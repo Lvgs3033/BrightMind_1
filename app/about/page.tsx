@@ -182,40 +182,8 @@ export default function AboutPage() {
             </Card>
           </motion.div>
 
-          {/* Team Section */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6, delay: 1.2 }}
-            className="mb-16"
-          >
-            <h2 className="text-3xl font-bold text-center text-gray-900 dark:text-white mb-8">Meet Our Team</h2>
-            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-              {team.map((member, index) => (
-                <motion.div
-                  key={index}
-                  initial={{ opacity: 0, scale: 0.9 }}
-                  animate={{ opacity: 1, scale: 1 }}
-                  transition={{ duration: 0.6, delay: 1.4 + index * 0.1 }}
-                >
-                  <Card className="shadow-lg hover:shadow-xl transition-shadow">
-                    <CardContent className="p-6 text-center">
-                      <img
-                        src={member.image || "/placeholder.svg"}
-                        alt={member.name}
-                        className="w-24 h-24 rounded-full mx-auto mb-4 object-cover"
-                      />
-                      <h3 className="font-semibold text-lg mb-1">{member.name}</h3>
-                      <Badge variant="secondary" className="mb-3">
-                        {member.role}
-                      </Badge>
-                      <p className="text-sm text-gray-600 dark:text-gray-300">{member.description}</p>
-                    </CardContent>
-                  </Card>
-                </motion.div>
-              ))}
-            </div>
-          </motion.div>
+         
+         
 
           {/* Statistics */}
           <motion.div
